@@ -1,0 +1,4 @@
+interface:
+  display_name: "【S.015】Starryear-Diffuse-Gradient丨星年·弥散渐变"
+  short_description: "原图证据在上，源生夜色弥散渐变重构在下，生成无字竖版双联作品"
+  default_prompt: "使用 $starryear-diffuse-gradient 将我上传的照片制作成顶部真实原图、下方夜色弥散渐变重构的 9:16 双联作品。"
